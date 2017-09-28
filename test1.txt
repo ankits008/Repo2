@@ -1,0 +1,8 @@
+ Volume in drive C is OS
+ Volume Serial Number is AEAB-54C3
+
+ Directory of C:\Users\ankitsharma\Desktop\MyProject
+
+28-09-2017  23:32                 0 test1.txt
+               1 File(s)              0 bytes
+               0 Dir(s)   4,240,080,896 bytes free
